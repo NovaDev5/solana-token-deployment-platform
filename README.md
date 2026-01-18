@@ -1,4 +1,4 @@
-# Solana Token Deployment Platform — Advanced Developer README
+# Solana Token Deployment Platform 
 
 > NOTE: This repository contains a built/static Next.js export (compiled HTML, CSS and JS) — not the original source files. The README below documents what this export is, how to run it, how to reason about and extend it, and practical examples to rebuild a full development workflow.
 
